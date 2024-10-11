@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello 你好
 
-<!--
-**liuxiaohanhanzi/liuxiaohanhanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是柳小寒寒子，
 
-Here are some ideas to get you started:
+也可以叫我柳柳子(◍  ° ◡°◍)╯✧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 北航计算机研究生
+- 🌱 量化学习中
+- 📫 3257104973@qq.com
+
+---
+
+<blockquote style="text-align: center; font-size: 18px;">
+<em>“他没有流血，他开始唱歌。”</em>
+</blockquote>
+
+
+
+
+
+
+
+
+
