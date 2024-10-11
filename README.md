@@ -9,10 +9,12 @@
 - 📫 3257104973@qq.com
 
 ---
-
-<blockquote style="text-align: center; font-size: 18px;">
+<center>
+<blockquote>
 <em>“他没有流血，他开始唱歌。”</em>
 </blockquote>
+</center>
+
 
 
 
